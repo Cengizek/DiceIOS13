@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
@@ -28,4 +29,5 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+
 
